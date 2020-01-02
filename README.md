@@ -1,2 +1,2 @@
-# moneyTrack
-tracking money app
+# smthTrack
+tracking app 
